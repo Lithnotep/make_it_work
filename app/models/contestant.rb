@@ -6,4 +6,7 @@ class Contestant <ApplicationRecord
   def self.total_contestants
     count
   end
+
+
+
 end
