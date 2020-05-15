@@ -242,6 +242,7 @@
         "lines": [
           1,
           null,
+          1,
           null
         ]
       },
@@ -360,8 +361,25 @@
           1,
           null
         ]
+      },
+      "/Users/millmer/Documents/turing/mod_2/make_it_work/app/controllers/projects_controller.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/millmer/Documents/turing/mod_2/make_it_work/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          null
+        ]
       }
     },
-    "timestamp": 1589555868
+    "timestamp": 1589556712
   }
 }
