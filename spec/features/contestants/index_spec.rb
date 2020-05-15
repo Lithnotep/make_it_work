@@ -25,7 +25,7 @@ RSpec.describe "When a user visits Contestant indec page" do
     expect(page).to have_content(gretchen.name)
     expect(page).to have_content("Upholstery Tuxedo")
     expect(page).to have_content(kentaro.name)
-    expect(page).to have_content("Broadfit")
+    expect(page).to have_content("Boardfit")
     expect(page).to have_content(erin.name)
   end
 end
